@@ -1,5 +1,22 @@
 # eu_central_bank changelog
 
+## 1.4.2 (Feb 2 2019)
+
+* Fix issue with importing exported rates
+
+## 1.4.1 (Jan 14 2019)
+
+* Relax Nokogiri dependency to `~> 1.8` on newer rubies
+
+## 1.4.0 (Dec 17 2018)
+
+* Update money dependency to 6.13.x
+* Relax money dependency to a minor version
+
+## 1.3.1 (Sep 6 2018)
+
+* Fix HTTPS redirection error
+
 ## 1.3.0 (Jun 12 2018)
 
 * Add configurable rates store
